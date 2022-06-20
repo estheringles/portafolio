@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+
+body{
+	font-family: 'Playfair Display', serif;
+}
+
+header{
+	background-color: #DBD8D8;
+	padding: 30px 0px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+header h2{
+	font-size: 20px;
+}
+
+header h3{
+	font-size: 20px;
+}
+
+#hero {
+	text-align: justify;
+	color: #000000;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#hero h1{
+	font-size: 90px;
+	padding-top: 90px;
+	padding-bottom: 20px;
+	color: #000000;
+	text-align: right;
+	border-bottom: 1px #DBD8D8 dotted;
+}
+
+#hero p{
+	padding-top: 20px;
+	font-weight: lighter;
+	color: #3C3C3C;
+	font-size: 17px;
+}
+
+#servicios{
+	align-content: center;
+	text-align: center;
+	font-size: 25px;
+    color: #3C3C3C;
+	padding: 90px 0px;
+	background-color: #F0F0F0;
+}
+
+#servicios h2{
+	padding-bottom: 30px;
+}
+
+#servicios p{
+	font-size: 18px;
+    color: #3C3C3C;
+	font-weight: lighter;
+}
+
+#servicios i{
+	font-size: 18px;
+    color: #3C3C3C;
+	font-weight: lighter;
+}
+
+#metodologias{
+	align-content: center;
+	text-align: center;
+	font-size: 25px;
+    color: #3C3C3C;
+	padding: 90px 0px;
+}
+
+#metodologias h2{
+	padding-top: 40px;
+}
+
+#metodologias .accordion{
+	font-weight: lighter;
+	font-size: 18px;
+}
+
+
+#trabajos{
+	align-content: center;
+	text-align: center;
+	font-size: 25px;
+    color: #3C3C3C;
+	padding: 90px 0px;
+}
+
+#trabajos p{
+	font-size: 18px;
+    color: #3C3C3C;
+	font-weight: lighter;
+	padding-bottom: 40px;
+}
+
+#contacto{
+	padding: 40px 0px;
+	text-align: left;
+	background-color: #F0F0F0;
+	color: #313131;
+	color: #000000;
+}
+
+#contacto h4{
+	font-size: 18px;
+	text-align: left;
+	font-weight: lighter;
+}
+
+#contacto p{
+	font-size: 18px;
+	text-align: left;
+	font-weight: lighter;
+}
+
+.info-icon i{
+        font-size: 40px;
+        color: #313131;
+		letter-spacing: 15px;
+}
+
+footer{
+	background-color: #3C3C3C;
+	text-align: center;
+	font-size: 5px;
+	color: #FFFFFF;
+	padding: 10px 0px;
+}
